@@ -15,3 +15,6 @@ for(var i=1;i<=rows.length;i++){
 }
 console.log(states)
 ```
+
+
+# [source #2](https://gist.github.com/cheshire137/5928f6f19ead90bacff7#file-us_city_aliases-json)
